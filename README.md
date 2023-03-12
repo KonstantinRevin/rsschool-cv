@@ -1,3 +1,3 @@
 # rsschool-cv
 ---------
-CV
+https://github.com/KonstantinRevin/rsschool-cv
